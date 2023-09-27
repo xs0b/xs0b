@@ -2,9 +2,9 @@
 <h3 align="center">Студент МГТУ им. Н.Э. Баумана кафедры ИУ7</h3>
 
 <h3 align="left">Connect with me:</h3>
-Yandex: djafarovroostam@yandex.ru
-VK: https://vk.com/jafafrovrr
-Telegram: https://t.me/xsob87
+Yandex: djafarovroostam@yandex.ru \\
+VK: https://vk.com/jafafrovrr \\
+Telegram: https://t.me/xsob87 \\
 <p align="left">
 </p>
 
