@@ -2,7 +2,10 @@
 <h3 align="center">Студент МГТУ им. Н.Э. Баумана кафедры ИУ7</h3>
 
 <h3 align="left">Connect with me:</h3>
-[![Header]()](https://vk.com/surnui87sous)
+<ul class="social-icons-8">
+    <li><a href="#"><i class="fa fa-vk"></i></a></li>
+    <li><a href="#"><i class="fa fa-telegram"></i></a></li>
+</ul>
 <p align="left">
 </p>
 
