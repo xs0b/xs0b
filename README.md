@@ -1,10 +1,10 @@
 <h1 align="center">Всем привет, меня зовут Рустам</h1>
 <h3 align="center">Студент МГТУ им. Н.Э. Баумана кафедры ИУ7</h3>
 
-<h3 align="left">Connect with me:</h3>
-<h3 Yandex: djafarovroostam@yandex.ru/h3>
-<h3 VK: https://vk.com/jafafrovrr /h3>
-<h3 Telegram: https://t.me/xsob87 /h3>
+<a align="left">Connect with me:</a>
+<a Yandex: djafarovroostam@yandex.ru /a>
+<a VK: https://vk.com/jafafrovrr /a>
+<a Telegram: https://t.me/xsob87 /a>
 <p align="left">
 </p>
 
