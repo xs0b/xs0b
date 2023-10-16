@@ -1,5 +1,5 @@
-<h1 align="center">Всем привет, меня зовут Рустам</h1>
-<h3 align="center">Студент МГТУ им. Н.Э. Баумана кафедры ИУ7</h3>
+<h1 align="center">Hello everyone, my name is Rustam</h1>
+<h3 align="center">Student of Bauman Moscow State Technical University of the department of IU7</h3>
 
 <h3 align="left">Languages and Tools:</h3> 
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
